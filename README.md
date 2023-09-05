@@ -23,4 +23,4 @@
 
 ## NOTE
 I created 4 scripts that produce 4 CSV files that are displayed in tableau under the names Book1 to Book4 respectively.
-Book5 is a dashboard having all 4 visualizations together.
+Employee Dashboard is a dashboard having all 4 visualizations together.
