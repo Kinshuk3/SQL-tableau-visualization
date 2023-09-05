@@ -1,0 +1,235 @@
+dept_name,gender,salary,calendar_year
+"Customer Service",M,32500,1990
+"Customer Service",M,35076,1991
+"Customer Service",M,32500,1992
+"Customer Service",M,32500,1993
+"Customer Service",M,35500,1994
+"Customer Service",M,35136,1995
+"Customer Service",M,35500,1996
+"Customer Service",M,37291,1997
+"Customer Service",M,37356,1998
+"Customer Service",M,41705,1999
+"Customer Service",M,48747,2000
+"Customer Service",M,49373,2001
+"Customer Service",M,40119,2002
+"Customer Service",F,34865,1990
+"Customer Service",F,36700,1991
+"Customer Service",F,40714,1992
+"Customer Service",F,43427,1993
+"Customer Service",F,43970,1994
+"Customer Service",F,47045,1995
+"Customer Service",F,49253,1996
+"Customer Service",F,34457,1997
+"Customer Service",F,34288,1998
+"Customer Service",F,37120,1999
+"Customer Service",F,38433,2000
+"Customer Service",F,41075,2001
+"Customer Service",F,43826,2002
+Development,M,32500,1990
+Development,M,41359,1991
+Development,M,32500,1992
+Development,M,34367,1993
+Development,M,37818,1994
+Development,M,39695,1995
+Development,M,41960,1996
+Development,M,41985,1997
+Development,M,40171,1998
+Development,M,42084,1999
+Development,M,50168,2000
+Development,M,51923,2001
+Development,M,76452,2002
+Development,F,41357,1990
+Development,F,43957,1991
+Development,F,46369,1992
+Development,F,44653,1993
+Development,F,46033,1994
+Development,F,49065,1995
+Development,F,52760,1996
+Development,F,54601,1997
+Development,F,56370,1998
+Development,F,57070,1999
+Development,F,59516,2000
+Development,F,60685,2001
+Development,F,65168,2002
+Finance,M,66866,1990
+Finance,M,71175,1991
+Finance,M,74720,1992
+Finance,M,79104,1993
+Finance,M,83587,1994
+Finance,M,84336,1995
+Finance,M,86123,1996
+Finance,M,87030,1997
+Finance,M,87189,1998
+Finance,M,91071,1999
+Finance,M,95317,2000
+Finance,M,95330,2001
+Finance,M,67087,2002
+Finance,F,47032,1990
+Finance,F,63718,1991
+Finance,F,65799,1992
+Finance,F,74162,1993
+Finance,F,76683,1994
+Finance,F,76889,1995
+Finance,F,78001,1996
+Finance,F,82333,1997
+Finance,F,83661,1998
+Finance,F,87535,1999
+Finance,F,87368,2000
+Finance,F,85780,2001
+Finance,F,86661,2002
+"Human Resources",M,36825,1990
+"Human Resources",M,39948,1991
+"Human Resources",M,35319,1992
+"Human Resources",M,39256,1993
+"Human Resources",M,46584,1994
+"Human Resources",M,47808,1995
+"Human Resources",M,49328,1996
+"Human Resources",M,49908,1997
+"Human Resources",M,47429,1998
+"Human Resources",M,50079,1999
+"Human Resources",M,57978,2000
+"Human Resources",M,58020,2001
+"Human Resources",M,60553,2002
+"Human Resources",F,47032,1990
+"Human Resources",F,37916,1991
+"Human Resources",F,37776,1992
+"Human Resources",F,38239,1993
+"Human Resources",F,39867,1994
+"Human Resources",F,41331,1995
+"Human Resources",F,43068,1996
+"Human Resources",F,45684,1997
+"Human Resources",F,49265,1998
+"Human Resources",F,48804,1999
+"Human Resources",F,52535,2000
+"Human Resources",F,55805,2001
+"Human Resources",F,59226,2002
+Marketing,M,59240,1990
+Marketing,M,56065,1991
+Marketing,M,72524,1992
+Marketing,M,76092,1993
+Marketing,M,82973,1994
+Marketing,M,86343,1995
+Marketing,M,61228,1996
+Marketing,M,61554,1997
+Marketing,M,60510,1998
+Marketing,M,66471,1999
+Marketing,M,81273,2000
+Marketing,M,81128,2001
+Marketing,M,81069,2002
+Marketing,F,72314,1990
+Marketing,F,53852,1991
+Marketing,F,54109,1992
+Marketing,F,63880,1993
+Marketing,F,68038,1994
+Marketing,F,72010,1995
+Marketing,F,74663,1996
+Marketing,F,78657,1997
+Marketing,F,82119,1998
+Marketing,F,84485,1999
+Marketing,F,88622,2000
+Marketing,F,91022,2001
+Marketing,F,92151,2002
+Production,M,32540,1990
+Production,M,55428,1991
+Production,M,41317,1992
+Production,M,43374,1993
+Production,M,62456,1994
+Production,M,43085,1995
+Production,M,47230,1996
+Production,M,35500,1997
+Production,M,36147,1998
+Production,M,37300,1999
+Production,M,42427,2000
+Production,M,44517,2001
+Production,M,63813,2002
+Production,F,40926,1990
+Production,F,41889,1991
+Production,F,44500,1992
+Production,F,45538,1993
+Production,F,46836,1994
+Production,F,46478,1995
+Production,F,47590,1996
+Production,F,49610,1997
+Production,F,76233,1998
+Production,F,79215,1999
+Production,F,83567,2000
+Production,F,87201,2001
+Production,F,89146,2002
+"Quality Management",M,51451,1990
+"Quality Management",M,33083,1991
+"Quality Management",M,33883,1992
+"Quality Management",M,38202,1993
+"Quality Management",M,42422,1994
+"Quality Management",M,42831,1995
+"Quality Management",M,45609,1996
+"Quality Management",M,49490,1997
+"Quality Management",M,49973,1998
+"Quality Management",M,50405,1999
+"Quality Management",M,55240,2000
+"Quality Management",M,55960,2001
+"Quality Management",M,54151,2002
+"Quality Management",F,61010,1990
+"Quality Management",F,32500,1991
+"Quality Management",F,36713,1992
+"Quality Management",F,37525,1993
+"Quality Management",F,39983,1994
+"Quality Management",F,38225,1995
+"Quality Management",F,40688,1996
+"Quality Management",F,41366,1997
+"Quality Management",F,43990,1998
+"Quality Management",F,45587,1999
+"Quality Management",F,47654,2000
+"Quality Management",F,50921,2001
+"Quality Management",F,52155,2002
+Research,M,41435,1990
+Research,M,40487,1991
+Research,M,32500,1992
+Research,M,34885,1993
+Research,M,38985,1994
+Research,M,38703,1995
+Research,M,40650,1996
+Research,M,43722,1997
+Research,M,44353,1998
+Research,M,37776,1999
+Research,M,44446,2000
+Research,M,44275,2001
+Research,M,47532,2002
+Research,F,32880,1990
+Research,F,33131,1991
+Research,F,42093,1992
+Research,F,44653,1993
+Research,F,46033,1994
+Research,F,49065,1995
+Research,F,52760,1996
+Research,F,54601,1997
+Research,F,56370,1998
+Research,F,57070,1999
+Research,F,59516,2000
+Research,F,60685,2001
+Research,F,65168,2002
+Sales,M,66866,1990
+Sales,M,71175,1991
+Sales,M,74720,1992
+Sales,M,79104,1993
+Sales,M,83587,1994
+Sales,M,84336,1995
+Sales,M,86123,1996
+Sales,M,87030,1997
+Sales,M,64389,1998
+Sales,M,68446,1999
+Sales,M,74326,2000
+Sales,M,73881,2001
+Sales,M,75435,2002
+Sales,F,50749,1990
+Sales,F,54311,1991
+Sales,F,55963,1992
+Sales,F,58548,1993
+Sales,F,60794,1994
+Sales,F,62018,1995
+Sales,F,56705,1996
+Sales,F,58922,1997
+Sales,F,59091,1998
+Sales,F,59215,1999
+Sales,F,89663,2000
+Sales,F,92148,2001
+Sales,F,94176,2002
